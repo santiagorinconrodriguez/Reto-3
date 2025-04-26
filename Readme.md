@@ -34,7 +34,7 @@ fin
 ```
 # Diagrama de flujo
 ```
----
+---mermaid
 config:
   theme: redux
 ---
