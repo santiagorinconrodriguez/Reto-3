@@ -33,8 +33,8 @@ fin mientras
 fin
 ```
 # Diagrama de flujo
-```
----mermaid
+```mermaid
+---
 config:
   theme: redux
 ---
